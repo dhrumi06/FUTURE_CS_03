@@ -101,3 +101,8 @@ Download: User clicks download → the app reads the .enc → decrypts it in mem
 
 ![image alt](https://github.com/dhrumi06/FUTURE_CS_03/blob/d6b869854e2313b9471307bfae00c88c2a3021d0/screenshots/a3.png)
 
+![image alt](https://github.com/dhrumi06/FUTURE_CS_03/blob/8326b973c23cded6bd8b8cc52aaa28c14ddaf6d7/screenshots/a4.png)
+
+![image alt](https://github.com/dhrumi06/FUTURE_CS_03/blob/8326b973c23cded6bd8b8cc52aaa28c14ddaf6d7/screenshots/a6.png)
+
+
