@@ -99,3 +99,5 @@ Download: User clicks download → the app reads the .enc → decrypts it in mem
 
 📁 Add file size limits and type restrictions.
 
+![image alt](https://github.com/dhrumi06/FUTURE_CS_03/blob/d6b869854e2313b9471307bfae00c88c2a3021d0/screenshots/a3.png)
+
