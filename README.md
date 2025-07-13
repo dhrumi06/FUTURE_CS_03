@@ -7,7 +7,7 @@ It allows users to upload files, which are then encrypted on the server, and lat
 
 
 
-# 📌 Project Objective
+# 📌 Objective
 
 It simulates real-world secure file transfer for environments where data privacy is critical — such as healthcare, legal, or corporate sectors.
 
