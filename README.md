@@ -44,19 +44,33 @@ It simulates real-world secure file transfer for environments where data privacy
 
 
 secure_file_sharing/
+
 │
+
 ├── run.py
+
 ├── requirements.txt
+
 ├── uploads_encrypted/
+
 │
+
 ├── app/
+
 │ ├── init.py
+
 │ ├── routes.py
+
 │ ├── encryption.py
+
 │ ├── config.py
+
 │ ├── templates/
+
 │ │ └── index.html
+
 │ └── static/
+
 │ └── style.css
 
 
